@@ -113,7 +113,7 @@ top: 10px;
 
 .middle-icons{position: relative
     ;
-    left: 60px;
+    left: 600px;
 margin-top: 200px;
 }
 
@@ -151,12 +151,12 @@ border-bottom: 1px solid rgba(0, 0, 0, 0.118);
 
 
 .fas{
-    color:white;
+    color:orange;
 }
 
 
 .tripod-sec{
-    background: #FFFFFF;
+    background: white;
 
     box-shadow: 0px 0px 40px rgba(0, 0, 0, 0.15);
     border-radius: 5px;
@@ -348,6 +348,8 @@ justify-content: space-evenly;
     }
   }
   
+
+/* mobile responsive-------------------------------------------------------------------- */
 
 
 
@@ -694,24 +696,6 @@ margin-top: 350px
 
 
 
-
-
-
-
-
-
-
-
-/* =---------------------------------------------------------------------------------------------- mobile responsive------------------------------------------------- */
-
-
-
-
-@media only screen and (max-width: 600px) {
-    body {
-      background-color: lightblue;
-    }
-  }
 
 
 
