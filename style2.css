@@ -1,11 +1,7 @@
-@media only screen and (max-width: 688px) {
+media only screen and (max-width: 688px) {
     body {
-      background-color: lightblue;
-    }
-}
-   
-  
-/* ------------------------------------------------ */
+      background-color: lightblue;}
+    
 
   nav a {
     text-decoration: none;
@@ -311,3 +307,4 @@ height: 24px;
       
     }
   }
+}
